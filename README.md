@@ -1,1 +1,1 @@
-# Brainfuck-Interpreter
+# Brainf\*ck Interpreter
