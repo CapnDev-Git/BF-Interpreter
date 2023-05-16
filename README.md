@@ -45,7 +45,7 @@ To execute the program, the following syntax should be used:
 
 ```bash
 # Prints out the size of the program, the program itself and
-the output interpreted by the executable.
+# the output interpreted by the executable.
 ./bf <file>
 ```
 
